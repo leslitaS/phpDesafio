@@ -1,0 +1,15 @@
+* {
+    border-radius: 0;
+}
+
+.container {    
+    margin: 50px auto;
+}
+
+#idH2{
+    font:italic;
+}
+
+.a{
+    margin-bottom: 20px;
+}
